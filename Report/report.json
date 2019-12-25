@@ -1,0 +1,302 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1128700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.beforeScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 146700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify the customer or user is able to Login the Application",
+        "description": "",
+        "id": "automationpractice-end-to-end-test-case;verify-the-customer-or-user-is-able-to-login-the-application",
+        "after": [
+          {
+            "result": {
+              "duration": 59200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 42700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8205519800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User launch the AutomationPractice application",
+            "match": {
+              "location": "AutomationStepDefinition.user_launch_the_AutomationPractice_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9105301300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Click on SignIn Button in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_on_SignIn_Button_in_the_header()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137867000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enter email Id \"abcdef@gmail.com\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abcdef@gmail.com",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_email_Id_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 120127500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Enter Password \"12345\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12345",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_Password_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5118666400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click SignIn button in SignIn page",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_SignIn_button_in_SignIn_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User Verify the UserName displayed in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Verify_the_UserName_displayed_in_the_header()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "AutomationPractice End to End Test Case",
+    "description": "",
+    "id": "automationpractice-end-to-end-test-case",
+    "keyword": "Feature",
+    "uri": "AutomationPractice.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 70400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.beforeScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 46000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify the customer or user is able to Login the Application",
+        "description": "",
+        "id": "automationpractice-end-to-end-test-case;verify-the-customer-or-user-is-able-to-login-the-application",
+        "after": [
+          {
+            "result": {
+              "duration": 58500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 43500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2051819200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User launch the AutomationPractice application",
+            "match": {
+              "location": "AutomationStepDefinition.user_launch_the_AutomationPractice_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9289000500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Click on SignIn Button in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_on_SignIn_Button_in_the_header()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 176887600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enter email Id \"abcdef@gmail.com\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abcdef@gmail.com",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_email_Id_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 131534900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Enter Password \"12345\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12345",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_Password_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6687109700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click SignIn button in SignIn page",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_SignIn_button_in_SignIn_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 18300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User Verify the UserName displayed in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Verify_the_UserName_displayed_in_the_header()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "AutomationPractice End to End Test Case",
+    "description": "",
+    "id": "automationpractice-end-to-end-test-case",
+    "keyword": "Feature",
+    "uri": "AutomationPractice2.feature"
+  }
+]
