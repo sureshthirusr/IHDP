@@ -13,7 +13,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features = "src\\test\\java\\com\\cucumber\\feature", 
 					glue = "com\\cucumber\\stepdefinition", 
 					plugin = {"com.cucumber.listener.ExtentCucumberFormatter:Report/cucumber-reports/report.html",
-							"json:Report/report.json",
+							"json:target/cucumber.json",
 							"html:normal.html",
 							"pretty"},
 					monochrome=true,

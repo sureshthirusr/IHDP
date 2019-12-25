@@ -7,11 +7,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 1128700,
+  "duration": 622000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 146700,
+  "duration": 100900,
   "status": "passed"
 });
 formatter.scenario({
@@ -62,14 +62,14 @@ formatter.match({
   "location": "AutomationStepDefinition.user_launch_the_AutomationPractice_application()"
 });
 formatter.result({
-  "duration": 8205519800,
+  "duration": 13829057100,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Click_on_SignIn_Button_in_the_header()"
 });
 formatter.result({
-  "duration": 9105301300,
+  "duration": 1643997100,
   "status": "passed"
 });
 formatter.match({
@@ -82,7 +82,7 @@ formatter.match({
   "location": "AutomationStepDefinition.user_Enter_email_Id_in_SignIn_page(String)"
 });
 formatter.result({
-  "duration": 137867000,
+  "duration": 1890038700,
   "status": "passed"
 });
 formatter.match({
@@ -95,29 +95,29 @@ formatter.match({
   "location": "AutomationStepDefinition.user_Enter_Password_in_SignIn_page(String)"
 });
 formatter.result({
-  "duration": 120127500,
+  "duration": 143953300,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Click_SignIn_button_in_SignIn_page()"
 });
 formatter.result({
-  "duration": 5118666400,
+  "duration": 5520823000,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Verify_the_UserName_displayed_in_the_header()"
 });
 formatter.result({
-  "duration": 45300,
+  "duration": 45100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59200,
+  "duration": 79100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 42700,
+  "duration": 77900,
   "status": "passed"
 });
 formatter.uri("AutomationPractice2.feature");
@@ -129,11 +129,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 70400,
+  "duration": 107900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46000,
+  "duration": 74200,
   "status": "passed"
 });
 formatter.scenario({
@@ -184,14 +184,14 @@ formatter.match({
   "location": "AutomationStepDefinition.user_launch_the_AutomationPractice_application()"
 });
 formatter.result({
-  "duration": 2051819200,
+  "duration": 4793795700,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Click_on_SignIn_Button_in_the_header()"
 });
 formatter.result({
-  "duration": 9289000500,
+  "duration": 3594167600,
   "status": "passed"
 });
 formatter.match({
@@ -204,7 +204,7 @@ formatter.match({
   "location": "AutomationStepDefinition.user_Enter_email_Id_in_SignIn_page(String)"
 });
 formatter.result({
-  "duration": 176887600,
+  "duration": 166383200,
   "status": "passed"
 });
 formatter.match({
@@ -217,29 +217,29 @@ formatter.match({
   "location": "AutomationStepDefinition.user_Enter_Password_in_SignIn_page(String)"
 });
 formatter.result({
-  "duration": 131534900,
+  "duration": 134185400,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Click_SignIn_button_in_SignIn_page()"
 });
 formatter.result({
-  "duration": 6687109700,
+  "duration": 2199588200,
   "status": "passed"
 });
 formatter.match({
   "location": "AutomationStepDefinition.user_Verify_the_UserName_displayed_in_the_header()"
 });
 formatter.result({
-  "duration": 18300,
+  "duration": 26700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 58500,
+  "duration": 67200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 43500,
+  "duration": 68100,
   "status": "passed"
 });
 });
