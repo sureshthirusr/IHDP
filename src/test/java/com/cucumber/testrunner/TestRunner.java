@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src\\test\\java\\com\\cucumber\\feature", 
 					glue = "com\\cucumber\\stepdefinition", 
-					plugin = {"com.cucumber.listener.ExtentCucumberFormatter:Report/cucumber-reports/report.html",
+					plugin = {"com.cucumber.listener.ExtentCucumberFormatter:Report/cucumber-reports/Cucumber_Report.html",
 							"json:target/cucumber.json",
 							"html:normal.html",
 							"pretty"},
