@@ -1,4 +1,4 @@
-Feature: AutomationPractice End to End Test Case 
+Feature: Functionalities for Regression Suite - 2
 
 @RegressionTest
 Scenario: Verify the customer or user is able to Login the Application 

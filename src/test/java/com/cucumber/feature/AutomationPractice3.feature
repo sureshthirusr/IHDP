@@ -1,4 +1,4 @@
-Feature: Functionalities for Regression Suite - 1
+Feature: Functionalities for Regression Suite - 3
 
 @RegressionTest
 Scenario: Verify the customer or user is able to Login the Application 
@@ -13,14 +13,14 @@ Scenario: Verify the customer or user is able to Login the Application
 Scenario Outline: Verify the customer or user is able to Login the Application 
 	Given User launch the AutomationPractice application 
 	When User Click on SignIn Button in the header 
-	And User Enter email Id <EmailId> in SignIn page 
-	And User Enter Password <Password> in SignIn page 
+	And User Enter email Id "<EmailId>" in SignIn page 
+	And User Enter Password "<Password>" in SignIn page 
 	And User Click SignIn button in SignIn page 
 	Then User Verify the UserName displayed in the header 
 	
 	Examples: 
 		|EmailId|Password|
-		|123233@gmail.com|12121212|
+		|12323@gmail.com|12121212|
 		|121212@gmail.com|12121212|
 		
 Scenario: Verify the user is able to select the product based on menu navigation 

@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 1073900,
+              "duration": 1617500,
               "status": "passed"
             },
             "match": {
@@ -15,7 +15,7 @@
           },
           {
             "result": {
-              "duration": 123000,
+              "duration": 143100,
               "status": "passed"
             },
             "match": {
@@ -26,11 +26,11 @@
         "line": 4,
         "name": "Verify the customer or user is able to Login the Application",
         "description": "",
-        "id": "automationpractice-end-to-end-test-case;verify-the-customer-or-user-is-able-to-login-the-application",
+        "id": "functionalities-for-regression-suite---1;verify-the-customer-or-user-is-able-to-login-the-application",
         "after": [
           {
             "result": {
-              "duration": 206500,
+              "duration": 182401,
               "status": "passed"
             },
             "match": {
@@ -39,7 +39,7 @@
           },
           {
             "result": {
-              "duration": 140600,
+              "duration": 93100,
               "status": "passed"
             },
             "match": {
@@ -52,7 +52,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8596602300,
+              "duration": 15299304400,
               "status": "passed"
             },
             "line": 5,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 2166472700,
+              "duration": 1956559401,
               "status": "passed"
             },
             "line": 6,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 1783148600,
+              "duration": 1413198901,
               "status": "passed"
             },
             "line": 7,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 448804000,
+              "duration": 171958400,
               "status": "passed"
             },
             "line": 8,
@@ -112,7 +112,7 @@
           },
           {
             "result": {
-              "duration": 1623008000,
+              "duration": 6042887000,
               "status": "passed"
             },
             "line": 9,
@@ -124,7 +124,7 @@
           },
           {
             "result": {
-              "duration": 46600,
+              "duration": 33600,
               "status": "passed"
             },
             "line": 10,
@@ -143,9 +143,9 @@
         ]
       }
     ],
-    "name": "AutomationPractice End to End Test Case",
+    "name": "Functionalities for Regression Suite - 1",
     "description": "",
-    "id": "automationpractice-end-to-end-test-case",
+    "id": "functionalities-for-regression-suite---1",
     "keyword": "Feature",
     "uri": "AutomationPractice.feature"
   },
@@ -156,7 +156,7 @@
         "before": [
           {
             "result": {
-              "duration": 385900,
+              "duration": 78100,
               "status": "passed"
             },
             "match": {
@@ -165,7 +165,7 @@
           },
           {
             "result": {
-              "duration": 219700,
+              "duration": 72600,
               "status": "passed"
             },
             "match": {
@@ -176,11 +176,11 @@
         "line": 4,
         "name": "Verify the customer or user is able to Login the Application",
         "description": "",
-        "id": "automationpractice-end-to-end-test-case;verify-the-customer-or-user-is-able-to-login-the-application",
+        "id": "functionalities-for-regression-suite---2;verify-the-customer-or-user-is-able-to-login-the-application",
         "after": [
           {
             "result": {
-              "duration": 222000,
+              "duration": 65901,
               "status": "passed"
             },
             "match": {
@@ -189,7 +189,7 @@
           },
           {
             "result": {
-              "duration": 131200,
+              "duration": 44300,
               "status": "passed"
             },
             "match": {
@@ -202,7 +202,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2969065700,
+              "duration": 2688663700,
               "status": "passed"
             },
             "line": 5,
@@ -214,7 +214,7 @@
           },
           {
             "result": {
-              "duration": 2020548200,
+              "duration": 1464138900,
               "status": "passed"
             },
             "line": 6,
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 701706900,
+              "duration": 1818469200,
               "status": "passed"
             },
             "line": 7,
@@ -244,7 +244,7 @@
           },
           {
             "result": {
-              "duration": 318147900,
+              "duration": 230894000,
               "status": "passed"
             },
             "line": 8,
@@ -262,7 +262,7 @@
           },
           {
             "result": {
-              "duration": 1441132500,
+              "duration": 2134312900,
               "status": "passed"
             },
             "line": 9,
@@ -274,7 +274,7 @@
           },
           {
             "result": {
-              "duration": 73000,
+              "duration": 55300,
               "status": "passed"
             },
             "line": 10,
@@ -293,10 +293,160 @@
         ]
       }
     ],
-    "name": "AutomationPractice End to End Test Case",
+    "name": "Functionalities for Regression Suite - 2",
     "description": "",
-    "id": "automationpractice-end-to-end-test-case",
+    "id": "functionalities-for-regression-suite---2",
     "keyword": "Feature",
     "uri": "AutomationPractice2.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 94000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.beforeScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 71900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify the customer or user is able to Login the Application",
+        "description": "",
+        "id": "functionalities-for-regression-suite---3;verify-the-customer-or-user-is-able-to-login-the-application",
+        "after": [
+          {
+            "result": {
+              "duration": 48101,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutomationStepDefinition.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 54301,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2969388300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User launch the AutomationPractice application",
+            "match": {
+              "location": "AutomationStepDefinition.user_launch_the_AutomationPractice_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1782379900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Click on SignIn Button in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_on_SignIn_Button_in_the_header()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 535453500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enter email Id \"abcdef@gmail.com\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abcdef@gmail.com",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_email_Id_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 208711400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Enter Password \"12345\" in SignIn page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12345",
+                  "offset": 21
+                }
+              ],
+              "location": "AutomationStepDefinition.user_Enter_Password_in_SignIn_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1878531500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click SignIn button in SignIn page",
+            "match": {
+              "location": "AutomationStepDefinition.user_Click_SignIn_button_in_SignIn_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22999,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User Verify the UserName displayed in the header",
+            "match": {
+              "location": "AutomationStepDefinition.user_Verify_the_UserName_displayed_in_the_header()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Functionalities for Regression Suite - 3",
+    "description": "",
+    "id": "functionalities-for-regression-suite---3",
+    "keyword": "Feature",
+    "uri": "AutomationPractice3.feature"
   }
 ]
